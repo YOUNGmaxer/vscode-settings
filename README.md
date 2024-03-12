@@ -12,4 +12,12 @@
 
 ### 代码自动格式化
 
-参考：[format.json](./settings/format.json)
+> 参考：[format.json](./settings/format.json)
+
+支持格式化以下文件：
+
+* json
+
+* ts
+
+* vue
