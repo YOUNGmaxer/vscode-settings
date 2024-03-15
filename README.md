@@ -16,8 +16,10 @@
 
 支持格式化以下文件：
 
-* json
-
-* ts
-
-* vue
+|文件类型|依赖插件|
+|-|-|
+|json|vscode.json-language-features|
+|ts|esbenp.prettier-vscode|
+|vue|Vue.volar|
+|yaml|redhat.vscode-yaml|
+|shell|foxundermoon.shell-format|
