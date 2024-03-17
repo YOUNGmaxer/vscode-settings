@@ -16,10 +16,10 @@
 
 支持格式化以下类型文件：
 
-|文件类型|依赖插件|
-|-|-|
-|json|vscode.json-language-features|
-|ts|esbenp.prettier-vscode|
-|vue|Vue.volar|
-|yaml|redhat.vscode-yaml|
-|shell|foxundermoon.shell-format|
+|文件类型|依赖插件|备注|
+|-|-|-|
+|json|vscode.json-language-features|/|
+|ts|esbenp.prettier-vscode|/|
+|vue|esbenp.prettier-vscode|对 JS 代码格式化体验优于 Vue.volar|
+|yaml|redhat.vscode-yaml|/|
+|shell|foxundermoon.shell-format|/|
